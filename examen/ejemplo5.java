@@ -1,4 +1,4 @@
-static void Ejercicio5ELI(){   
+static void Ejercicio5esther(){   
     //Realice un algoritmo que le permita probar uno de los 4 primeros algoritmos que ha diseñado anteriormente aplicando una estructura condicional múltiple o algo similar, o las estructuras que se requiera usar.
   //Declaracion de variables
   int opcionesA=0;
